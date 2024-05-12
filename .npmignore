@@ -1,0 +1,16 @@
+.*.swp
+.DS_Store
+.git
+.gitignore
+.npmignore
+.npmrc
+npm-debug.log
+package-lock.json
+components.json
+tailwind.config.js
+tsconfig.json
+postcss.config.js
+
+/src
+/.vscode
+/node_modules
